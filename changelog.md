@@ -1,3 +1,6 @@
+# v1.3.0
+Updated to 2.2081
+
 # v1.3.0 Beta 3
 ### Gameplay Changes
  * Added new mod setting: **Show Markers After Death**. Requested by Stoupy51 on GitHub
